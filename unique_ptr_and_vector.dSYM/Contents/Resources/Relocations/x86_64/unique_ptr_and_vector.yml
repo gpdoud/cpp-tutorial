@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/gpdoud/Repos/cpp/cpp-tutorial/unique_ptr_and_vector'
+relocations:     []
+...
